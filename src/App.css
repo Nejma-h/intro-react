@@ -28,6 +28,21 @@
   color: #61dafb;
 }
 
+/*selectCountry component */
+span.tag {
+  background-color: #e4e4e4;
+  color: #282c34;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+  display: inline-block;
+}
+
+span img {
+  height: 20px;
+}
+/*end selectCountry component */
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
